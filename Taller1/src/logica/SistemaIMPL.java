@@ -81,7 +81,7 @@ public class SistemaIMPL implements Sistema{
 
 	@Override
 	public boolean comprarSkin(String nomPersonaje, String nomSkin) {
-		// TODO Auto-generated method stub
+		
 		return false;
 	}
 
